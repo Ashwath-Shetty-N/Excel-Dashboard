@@ -1,0 +1,1 @@
+Developed an interactive Excel dashboard to showcase a store's annual sales performance across multiple online platforms like Amazon and Flipkart. The dashboard includes monthly sales trends and a detailed classification of sales based on gender (Men & Women). Utilized charts and pivot tables for clear data visualization and insights.
